@@ -71,6 +71,8 @@ export default defineConfig({
     icon(),
   ],
   vite: {
+    // @ts-expect-error - Plugin type mismatch due to Vite 6+ types in Astro 5
+    // https://github.com/withastro/astro/issues/14030#issuecomment-3027129338
     plugins: [tailwindcss()],
   },
   server: {
