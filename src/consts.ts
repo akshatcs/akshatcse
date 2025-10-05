@@ -32,7 +32,7 @@ export const SOCIAL_LINKS: SocialLink[] = [
     label: 'Twitter',
   },
   {
-    href: 'https://www.linkedin.com/in/akshatcs',
+    href: 'https://www.linkedin.com/in/akshatcse',
     label: 'LinkedIn',
   },
   // {
@@ -57,3 +57,4 @@ export const ICON_MAP: IconMap = {
   Email: 'lucide:mail',
   RSS: 'lucide:rss',
 }
+
