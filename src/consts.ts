@@ -3,7 +3,7 @@ import type { IconMap, SocialLink, Site } from '@/types'
 export const SITE: Site = {
   title: 'Akshat Kumar',
   description:
-    'Building Next-gen Artificial Intelligence, and Occasionally, Why It All Matters.',
+    'Building Intelligent Tech, and Occasionally, Why It All Matters.',
   href: 'https://akshatcse.com',
   author: 'Akshat Kumar',
   locale: 'en-US',
