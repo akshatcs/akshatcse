@@ -14,9 +14,10 @@ Practicality resides here. When confronted with a decision, don't just ask "what
 
 The secret is to keep making small, survivable wagers, learning from every result, and allowing the compounding of time and iteration warp probability towards your advantage.
 
-Uncertainty isn't the enemy. It is evidence that something is important. A life without the potential to lose it would be a life without significance - a barren existence where one could never have anything to gain because there was nothing to lose. Even the fear of the loss, burdensome as it may be, is the surest sign that we exist and are plugged into something substantial. So maybe the error lies not in the fear of the unknown, but in the lie that we can escape it. You can lock yourself behind ritual, behind cushioning, behind caution and control. But chance will catch up with you. Entropy will still pull on the fringes. Biology will still remind you that every time your heart beats is a triumph and a gamble.
+Uncertainty isn't the enemy. It is evidence that something is important. A life without the potential to lose it would be a life without significance, a simple existence where one could never have anything to gain because there was nothing to lose. Even the fear of the loss, burdensome as it may be, is the surest sign that we exist and are plugged into something substantial. So maybe the error lies not in the fear of the unknown, but in the lie that we can escape it. You can lock yourself behind ritual, behind cushioning, behind caution and control. But chance will catch up with you. Entropy will still pull on the fringes. Biology will still remind you that every time your heart beats is a triumph and a gamble.
 
 And space - immense, unfeeling, cluttered with wreckage and silence - will continue to loom above us, a reminder that life itself is tenuous.
 
 And perhaps that's the thing. That we exist not despite the odds, but because of them. That each choice, each relationship, each jump into the void is not an act of mad rebellion, but an affirmation of what it is to be here at all. You are not getting out alive. The coin was flipped long before you were born. You won. Don’t spend your life pretending you’re still waiting for the toss.
+
 
